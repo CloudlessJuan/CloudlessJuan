@@ -1,4 +1,18 @@
-## Hi there 👋
+## Hola ! 
+
+My name is Juan, getting data insights from webscraping operations is my thing 🦾 - there's no better descriptor of our reality than the listings made by our communities and cities🌃
+
+Certified Azure Data Engineer Associate (DP - 203)
+
+#Azure
+#AzureDataFactory
+#AzureDatabricks
+#AzureSynapseAnalytics
+
+## Check Medellín  rent monitor! 
+https://frscraperwebapp-hmbdh7hkakdqdwfp.canadacentral-01.azurewebsites.net/
+
+Any questions or comments? Feel free to DM me!
 
 <!--
 **CloudlessJuan/CloudlessJuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
