@@ -9,8 +9,6 @@ Certified Azure Data Engineer Associate (DP - 203)
 #AzureDatabricks
 #AzureSynapseAnalytics
 
-## Check Medellín 🇨🇴 rent monitor! 
-https://frscraperwebapp-hmbdh7hkakdqdwfp.canadacentral-01.azurewebsites.net/
 
 Any questions or comments? Feel free to DM me!
 
